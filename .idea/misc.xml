@@ -12,7 +12,8 @@
         <entry key="app/src/main/res/drawable/ic_facebook_f.xml" value="0.202" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1345" />
         <entry key="app/src/main/res/layout-land/activity_main.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.7100219726562501" />
+        <entry key="app/src/main/res/layout/activity_accueil.xml" value="1.0630905151367187" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.5" />
       </map>
     </option>
   </component>
