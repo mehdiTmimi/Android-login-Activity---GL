@@ -35,6 +35,7 @@ public class AuthentificationAction implements View.OnClickListener{
      if(user!=null)
      {
          Intent intent= new Intent(mainActivity, AccueilActivity.class);
+         intent.putExtra("user",user);
          mainActivity.startActivity(intent);
          mainActivity.finish();
      }
